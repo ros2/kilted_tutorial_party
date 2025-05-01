@@ -51,14 +51,14 @@ The goal is to close all tickets after successful validation. But we would like 
   - [ ] [Intermediate](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aopen+label%3Adocs+label%3Aintermediate+)
   - [ ] [Advanced](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aopen+label%3Adocs+label%3Aadvanced+)
 - [ ] [Core functionality](https://github.com/ros2/kilted_tutorial_party/labels/core)
-  - [ ] [noble, debian](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Acore+label%3A%22OS%3A+Ubuntu+Noble+24.04%22+label%3A%22Build+type%3A+Debian%22)
-  - [ ] [noble, binary](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Acore+label%3A%22OS%3A+Ubuntu+Noble+24.04%22+label%3A%22Build+type%3A+Binary%22+)
-  - [ ] [windows, binary](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Acore+label%3A%22Build+type%3A+Binary%22+label%3A%22OS%3A+Windows%22+)
+  - [ ] [noble, debian](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acore%20label%3Anoble%20label%3Adebian%20)
+  - [ ] [noble, binary](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acore%20label%3Anoble%20label%3Abinary)
+  - [ ] [windows, binary](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acore%20label%3Awindows%20label%3Abinary%20)
   - [ ] [windows, source](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Acore+label%3A%22Build+type%3A+Source%22+label%3A%22OS%3A+Windows%22+)
   - [ ] [rhel, source](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Acore+label%3A%22Build+type%3A+Source%22+label%3A%22OS%3A+RHEL+9%22+)
 - [ ] [Features](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Afeature+)
-  - [ ] [noble](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Afeature+label%3A%22OS%3A+Ubuntu+Noble+24.04%22++)
-  - [ ] [windows](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue+is%3Aopen+label%3Afeature+label%3A%22OS%3A+Windows%22+)
+  - [ ] [noble](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Afeature%20label%3Anoble%20)
+  - [ ] [windows](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Afeature%20label%3Awindows)
 
 ## What if I want to test something else?
 
@@ -68,3 +68,96 @@ If you would like to test the functionality of any other package or extend the c
 
 Questions related to testing may be posted on the [Discussions](https://github.com/ros2/kilted_tutorial_party/discussions) board.
 Kindly ensure to link the relevant issue ticket when starting a new discussion.
+
+### Tickets filtered by Setup
+
+#### Ubuntu Noble amd64 - Debian Binaries
+
+- [ ] [fastdds, debian, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aamd64%20label%3Afastdds)
+
+- [ ] [zenoh, debian, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aamd64%20label%3Azenoh)
+
+- [ ] [cyclone, debian, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aamd64%20label%3Acyclone)
+
+- [ ] [connext, debian, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aamd64%20label%3Aconnext)
+
+#### Ubuntu Noble arm64 - Debian Binaries
+
+- [ ] [fastdds, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Afastdds)
+
+- [ ] [zenoh, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Azeonh)
+
+- [ ] [cyclone, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Acyclone)
+
+- [ ] [connext, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Aconnext)
+
+#### Ubuntu Noble amd64 - Buildfarm Binaries
+
+- [ ] [fastdds, binary, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aamd64%20label%3Afastdds)
+
+- [ ] [zenoh, binary, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aamd64%20label%3Azenoh)
+
+- [ ] [cyclone, binary, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aamd64%20label%3Acyclone)
+
+- [ ] [connext, binary, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aamd64%20label%3Aconnext)
+
+#### Ubuntu Noble arm64 - Buildfarm Binaries
+
+- [ ] [fastdds, binary, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aarm64%20label%3Afastdds)
+
+- [ ] [zenoh, binary, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aarm64%20label%3Azenoh)
+
+- [ ] [cyclone, binary, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aarm64%20label%3Acyclone)
+
+- [ ] [connext, binary, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Abinary%20label%3Anoble%20label%3Aarm64%20label%3Aconnext)
+
+#### Windows amd64 - Buildfarm Binaries
+
+- [ ] [fastdds, binary, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Afastdds%20label%3Abinary%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [zenoh, binary, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Azenoh%20label%3Abinary%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [cyclone, binary, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acyclone%20label%3Abinary%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [connext, binary, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Aconnext%20label%3Abinary%20label%3Awindows%20label%3Aamd64%20)
+
+#### Ubuntu Noble amd64 - source
+
+- [ ] [fastdds, source, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aamd64%20label%3Afastdds)
+
+- [ ] [zenoh, source, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aamd64%20label%3Azenoh)
+
+- [ ] [cyclone, source, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aamd64%20label%3Acyclone)
+
+- [ ] [connext, source, noble, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aamd64%20label%3Aconnext)
+
+#### Ubuntu Noble arm64 - source
+
+- [ ] [fastdds, source, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aarm64%20label%3Afastdds)
+
+- [ ] [zenoh, source, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aarm64%20label%3Azenoh)
+
+- [ ] [cyclone, source, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aarm64%20label%3Acyclone)
+
+- [ ] [connext, source, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Asource%20label%3Anoble%20label%3Aarm64%20label%3Aconnext)
+
+#### Windows amd64 - source
+
+- [ ] [fastdds, source, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Afastdds%20label%3Asource%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [zenoh, source, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Azenoh%20label%3Asource%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [cyclone, source, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acyclone%20label%3Asource%20label%3Awindows%20label%3Aamd64%20)
+
+- [ ] [connext, source, windows, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Aconnext%20label%3Asource%20label%3Awindows%20label%3Aamd64%20)
+
+#### RHEL 9 amd64 - source
+
+- [ ] [fastdds, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Afastdds%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
+
+- [ ] [zenoh, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Azenoh%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
+
+- [ ] [cyclone, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acyclone%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
+
+- [ ] [connext, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Aconnext%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
+
