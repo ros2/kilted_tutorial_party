@@ -160,4 +160,3 @@ Kindly ensure to link the relevant issue ticket when starting a new discussion.
 - [ ] [cyclone, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Acyclone%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
 
 - [ ] [connext, source, rhel9, amd64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Aconnext%20%20label%3A%22rhel%209%22%20label%3Aamd64%20label%3Asource)
-
