@@ -85,7 +85,7 @@ Kindly ensure to link the relevant issue ticket when starting a new discussion.
 
 - [ ] [fastdds, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Afastdds)
 
-- [ ] [zenoh, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Azeonh)
+- [ ] [zenoh, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Azenoh)
 
 - [ ] [cyclone, debian, noble, arm64](https://github.com/ros2/kilted_tutorial_party/issues?q=is%3Aissue%20is%3Aopen%20label%3Adebian%20label%3Anoble%20label%3Aarm64%20label%3Acyclone)
 
